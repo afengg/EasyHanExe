@@ -1,0 +1,8 @@
+﻿L2W1/United States/미국/al rnr
+L2W2/Korea/한국/gks rnr
+L2W3/United Kingdom/영국/dud rnr
+L2W4/Japan/일본/dlf qhs
+L2W5/China/중국/wnd rnr
+L2W6/France/프랑스/vm fkd tm
+L2W7/Spain/스페인/tm vp dls
+L2W8/Russia/러시아/fj tl dk

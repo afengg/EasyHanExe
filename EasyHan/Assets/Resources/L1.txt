@@ -1,0 +1,13 @@
+﻿L1W1/Student/학생/gkr tod
+L1W2/Person/사람/tk fka
+L1W3/School Year/학년/gkr sus
+L1W4/Teacher/선생님/tjs tod sla
+L1W5/Name/이름/dl fma
+L1W6/Class/클래스/zmf fo tm
+L1W7/Library/도서관/eh tj rhks
+L1W8/Chair/의자/dml wk
+L1W9/Desk/책상/cor tkd
+L1W10/Book/책/cor
+L1W11/School/학교/gkr ry
+L1W12/Clock/시계/sl rP 
+L1W13/Homework/숙제/tnr wp

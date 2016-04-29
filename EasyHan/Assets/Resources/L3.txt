@@ -1,0 +1,10 @@
+﻿L3W1/House/집/wlq
+L3W2/Parents/부모님/qn ah sla
+L3W3/Father/아버지/dk qj wl
+L3W4/Mother/어머니/dj aj sl
+L3W5/Room/방/qkd
+L3W6/To Sleep/자다/wk ek
+L3W7/Apartment/아파트/dk vk xm
+L3W8/Television/텔레비전/xpf fp ql wjs
+L3W9/Lunch/점심/wja tla
+L3W10/Exercise/운동/dns ehd
